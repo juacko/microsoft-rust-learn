@@ -28,6 +28,8 @@ fn main() {
   fruit.push("Banana");
   fruit.push("Cherry");
   fruit.push("pineaple");
+  fruit.push("chocolate");
+  fruit.push("burger");
   println!("Fruits: {:?}", fruit);
   println!("Meats: {:?}", meats);
   println!("Pop off {:?}",fruit.pop());
